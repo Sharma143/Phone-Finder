@@ -1,0 +1,20 @@
+.bak {
+  color: "#fff";
+  background-color: "red";
+  padding: "9px";
+  border-radius: "0px";
+  width: "94%";
+}
+.mobContainer {
+  justify-content: center;
+  width: 80%;
+  margin: auto;
+}
+.findbtn {
+  color: "#fff";
+  background-color: "red";
+  padding: "9px";
+  border-radius: "0px";
+  width: "94%";
+}
+/* style={{color:"#fff",background:"red",padding:"9px",borderRadius:"0px",width:"94%"}} */
